@@ -10,7 +10,7 @@ import os
 from sklearn.preprocessing import LabelEncoder
 
 # TODO : change path according to the location of the datasets files
-dirname = 'C:\\Users\\royk\\Downloads\\classification_datasets-20200531T065549Z-001\\classification_datasets'
+dirname = ''
 
 # model params- used for hyperparameter tuning
 model_params = {
